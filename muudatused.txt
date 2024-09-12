@@ -1,0 +1,3 @@
+Tabelis student võiks veel olla õpilaste meiliaadressid.
+Tabelis stgroup võiks olla klassi/rühmajuhataja nimi ning rühmas olevate õpilaste arv.
+Comment tabelis võiks olla ka kuupäev, millal märkus kirjutati.
